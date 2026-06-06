@@ -78,7 +78,10 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+## 📚 Documentation
 
+- **[Naming Conventions](docs/naming-conventions.md)** – Standards for naming schemas, tables, columns, keys, and stored procedures.
+- **[Data Catalog](docs/data_catalog.md)** – Metadata and business definitions for Gold layer tables and columns.
 
 ## 🛡️ License
 
